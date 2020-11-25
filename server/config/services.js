@@ -43,17 +43,17 @@
 module.exports = {
   service1: {
     api: '/listings',
-    url: 'http://localhost:3001',
+    url: 'http://13.56.223.228:3001/',
     bundle: 'bundle.js',
   },
   service2: {
     api: '/homes/:id/calendar',
-    url: 'http://localhost:3002',
+    url: 'http://18.144.83.36:3002/',
     bundle: 'bundle.js',
   },
   service3: {
     api: '/homes/:id/reviews',
-    url: 'http://localhost:3003',
+    url: 'http://3.101.155.178:3003/',
     bundle: 'bundle.js',
   },
   service4: {
