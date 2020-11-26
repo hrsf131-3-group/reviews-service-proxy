@@ -58,7 +58,7 @@ module.exports = {
   },
   service4: {
     api: '/',
-    url: 'http://localhost:3004',
+    url: 'http://3.94.160.168:3004/',
     bundle: 'bundle.js',
   },
 };
